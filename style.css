@@ -1,0 +1,87 @@
+body{
+    height:auto;
+    width:auto;     
+ margin-top: 120px;
+ font-family: 'Angkor';font-size: 22px;
+    background-size: cover;
+}
+
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #b2b3e7;
+    color: white;
+    font-size: 43px;
+    margin-bottom: 50px;
+  }
+.btn1{
+    margin-top: 444px;
+    padding: 9px 14px;
+    border-radius: 22px;
+    color: black;
+    background-color: rgb(98, 160, 221);
+    font-weight: bold;
+    font-size: 23px;    
+    margin: 0 3px;
+    cursor: pointer;
+    }
+    .btn2 {
+    margin-top: 444px;
+    padding: 9px 14px;
+    border-radius: 22px;
+    color: black(15, 15, 15);
+    background-color:rgb(98, 160, 221);
+    font-weight: bold;
+    font-size: 23px;    
+    margin: 0 3px;
+    cursor: pointer;
+    }
+
+    .btn3{
+        margin-top: 444px;
+        padding: 9px 14px;
+        border-radius: 22px;
+        color: black;
+        background-color: rgb(98, 160, 221);
+        font-weight: bold;
+        font-size: 23px;    
+        margin: 0 3px;
+        cursor: pointer;
+        }
+
+    .btn4{
+        margin-top: 444px;
+        padding: 9px 14px;
+        border-radius: 22px;
+        color: black;
+        background-color:rgb(98, 160, 221);
+        font-weight: bold;
+        font-size: 23px;    
+        margin: 0 3px;
+        cursor: pointer;
+        }
+    .btn5{
+        margin-top: 444px;
+        padding: 9px 14px;
+        border-radius: 22px;
+        color: black;
+        background-color:rgb(98, 160, 221);
+        font-weight: bold;
+        font-size: 23px;    
+        margin: 0 3px;
+        cursor: pointer;
+        }
+        img {  
+            width: 95px;  
+            height: auto;  
+            }  
+
+.container{
+    border: 6px solid black;
+    width: 1000px;
+    background-color:rgb(98, 160, 221);
+    margin:  auto;
+    padding: 14px;
+    box-shadow: 10px 10px 10px rgba(0,0,0, 0.5);
+
+}
